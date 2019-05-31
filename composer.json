@@ -1,0 +1,17 @@
+{
+    "name": "maksym/hetic-w1p2021-group7",
+    "authors": [
+        {
+            "name": "Maksym Yankivskyy",
+            "email": "maksym.yankivskyypro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "controllers/",
+            "Model\\": "models/"
+        }
+    }
+}
